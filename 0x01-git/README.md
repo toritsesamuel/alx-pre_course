@@ -1,2 +1,1 @@
-My second commit
-my first update with github
+my first update on github
